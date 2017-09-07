@@ -1,2 +1,2 @@
-# mygoapps
+# Go Apps
 Go language related apps
